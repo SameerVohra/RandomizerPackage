@@ -1,2 +1,2 @@
-const randomize = require("randomizer");
+const randomize = require("randomizersameer");
 console.log(randomize("hello world"));
