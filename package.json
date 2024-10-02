@@ -1,11 +1,27 @@
 {
   "name": "randomizersameer",
-  "version": "1.0.1",
-  "description": "Randomize a string",
+  "version": "1.0.2",
+  "description": "A lightweight utility for randomizing strings, shuffling characters, and generating random string sequences in JavaScript.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [
+    "string",
+    "random",
+    "randomizer",
+    "string-randomizer",
+    "utility",
+    "shuffle",
+    "generate-string",
+    "random-string",
+    "string-generator",
+    "javascript",
+    "node",
+    "npm-package",
+    "utility-library",
+    "randomization"
+  ],
+  "author": "Sameer Vohra",
   "license": "ISC"
 }
